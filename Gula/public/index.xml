@@ -6,7 +6,14 @@
     <description>Recent content on Gula</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 00:53:47 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Fri, 08 Aug 2025 00:53:47 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>&lt;p&gt;test page&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
