@@ -1,3 +1,3 @@
 {
-  "postCreateCommand": "CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest"
+  "postCreateCommand": "go install github.com/gohugoio/hugo@latest"
 }
