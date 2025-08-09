@@ -1,3 +1,7 @@
 {
-  "postCreateCommand": "go install github.com/gohugoio/hugo@latest"
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended": true
+    }
+  }
 }
