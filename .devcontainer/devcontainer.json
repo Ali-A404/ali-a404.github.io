@@ -1,7 +1,0 @@
-{
-  "features": {
-    "ghcr.io/devcontainers/features/hugo:1": {
-      "extended": true
-    }
-  }
-}
