@@ -3,4 +3,17 @@ languageCode: en-us
 title: Absentia
 contentDir: content
 
-theme: ["PaperMod"]
+markup:
+  highlight:
+    noclasses: true
+    style: "github"
+  # Skip renderer safety to load HTML in codespace
+  goldmark:
+    renderer:
+      unsafe: true
+
+module:
+  imports:
+    path: "github.com/willfaught/paige"
+
+# theme: ["PaperMod"]
