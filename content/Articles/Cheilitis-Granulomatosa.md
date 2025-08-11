@@ -1,9 +1,8 @@
 ---
 title: "Cheilitis Granulomatosa"
 date: 2020-08-10
-showAuthor: true
 authors:
-  - "matthew"
+  - "Ali Ahmed"
 ---
 
 **Cheilitis granulomatosa (CG)**: rare granulomatous disorder, recurrent firm swelling of one or both lips. In isolation, it's called cheilitis granulomatosa of Miescher (CGM).

@@ -1,0 +1,9 @@
+{
+    "name": "Ali Ahmed",
+    "image" : "Ali_A_pfp.jpeg",
+    "bio": "Editor-in-Chief / Chief Technical Officer",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/nunocoracao" },
+        { "email": "mailto:example@example.com" }
+    ]
+}

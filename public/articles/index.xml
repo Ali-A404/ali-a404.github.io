@@ -6,8 +6,6 @@
     <description>Recent content in Articles on Absentia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>example@example.com (Ali Ahmed)</managingEditor>
-    <webMaster>example@example.com (Ali Ahmed)</webMaster>
     <copyright>© Gula Vox 2025</copyright>
     <lastBuildDate>Fri, 08 Aug 2025 17:22:54 +0000</lastBuildDate><atom:link href="https://ali-a404.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>Osteoradionecrosis</title>
       <link>https://ali-a404.github.io/articles/osteoradionecrosis/</link>
       <pubDate>Fri, 08 Aug 2025 17:22:54 +0000</pubDate>
-      <author>example@example.com (Ali Ahmed)</author>
+      
       <guid>https://ali-a404.github.io/articles/osteoradionecrosis/</guid>
       <description></description>
       
@@ -25,7 +23,7 @@
       <title>Frey&#39;s Syndrome</title>
       <link>https://ali-a404.github.io/articles/freys-syndrome/</link>
       <pubDate>Fri, 08 Aug 2025 16:40:25 +0000</pubDate>
-      <author>example@example.com (Ali Ahmed)</author>
+      
       <guid>https://ali-a404.github.io/articles/freys-syndrome/</guid>
       <description></description>
       
@@ -35,7 +33,7 @@
       <title>Cheilitis Granulomatosa</title>
       <link>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <author>example@example.com (Ali Ahmed)</author>
+      
       <guid>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</guid>
       <description></description>
       
