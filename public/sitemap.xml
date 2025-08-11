@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ali-a404.github.io/</loc>
     <lastmod>2025-08-08T17:22:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://ali-a404.github.io/articles/</loc>
     <lastmod>2025-08-08T17:22:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/osteoradionecrosis/</loc>
+    <loc>https://ali-a404.github.io/articles/osteoradionecrosis/</loc>
     <lastmod>2025-08-08T17:22:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/cheilitis-granulomatosa/</loc>
-    <lastmod>2025-08-08T16:45:20+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/articles/freys-syndrome/</loc>
+    <loc>https://ali-a404.github.io/articles/freys-syndrome/</loc>
     <lastmod>2025-08-08T16:40:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

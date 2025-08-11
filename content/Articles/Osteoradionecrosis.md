@@ -46,7 +46,7 @@ Tooth extraction should occur at least two weeks before radiotherapy. Optimal de
 
 Treating diagnosed ORN requires surgical intervention, the bone must be debrided down to healthy, bleeding bone. Local flaps, regional or free flaps, and segmental mandibulectomy with vascularised bone flap reconstruction are some of the possible routes of management, hyperbaric oxygen therapy is also used to promote angiogenesis in hypoxic tissues, thus promoting optimal reparative conditions.
 
-![](https://gulavox.github.io/articles/images/Osteoradionecrosis/Clinical-photograph-of-exposed-bone-Notani-grade-2-osteoradionecrosis-in-the-left.jpg)
+![](/images/Osteoradionecrosis/Clinical-photograph-of-exposed-bone-Notani-grade-2-osteoradionecrosis-in-the-left.jpg)
 *Exposed mandibular bone 12 months after molar extraction*
 
 <h1>Hello</h1>

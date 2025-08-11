@@ -1,7 +1,11 @@
 ---
-date: '2025-08-08T16:45:20Z'
-title: 'Cheilitis Granulomatosa'
+title: "Cheilitis Granulomatosa"
+date: 2020-08-10
+showAuthor: true
+authors:
+  - "matthew"
 ---
+
 **Cheilitis granulomatosa (CG)**: rare granulomatous disorder, recurrent firm swelling of one or both lips. In isolation, it's called cheilitis granulomatosa of Miescher (CGM).
 
 **Melkersson-Rosenthal syndrome (MRS)**: classical triad of recurrent or persistent orofacial edema, plicated/fissured tongue (lingua plicata), and relapsing peripheral facial nerve paralysis.
@@ -18,7 +22,7 @@ The complete triad is uncommon and may be observed in 25% to 33% of patients, ev
 
 Unknown etiology, commonly treated with corticosteroids. 
 
-![](https://gulavox.github.io/articles/images/Cheilitis-Granulomatosa/Melkersson-Rosenthal-syndrome-presenting-with-A-facial-edema-and-tongue-fissuring-and.png)
+![](/images/Cheilitis-Granulomatosa/Melkersson-Rosenthal-syndrome-presenting-with-A-facial-edema-and-tongue-fissuring-and.png)
 
 
 [Source 1](https://www.ncbi.nlm.nih.gov/books/NBK470396/)

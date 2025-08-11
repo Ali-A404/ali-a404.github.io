@@ -35,10 +35,10 @@ Frey syndrome is less common in children and may occur during early infancy with
 
 Approach is preventative, using fat flaps, musculoaponeurotic flaps, acellular dermal matrices, or other methods to provide a barrier between parotid innervation and sweat glands during parotid surgery. Botox has been used successfully in treatment but it requires regular re-administration due to diminishing effect.
 
-![](https://gulavox.github.io/articles/images/Freys-Syndrome/IMG_5391.PNG)
+![](/images/Freys-Syndrome/IMG_5391.PNG)
 *Minor's starch iodine test: an iodine solution is applied and allowed to dry, starch powder is dusted upon the area, patient is given a sialogogue*
 
-![](https://gulavox.github.io/articles/images/Freys-Syndrome/IMG_5392.PNG)
+![](/images/Freys-Syndrome/IMG_5392.PNG)
 *Staining reveals areas of sweating, here the patient's extensive gustatory sweating has entirely washed off the starch powder with the iodine-stained sweat*
 
 

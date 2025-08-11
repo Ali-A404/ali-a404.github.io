@@ -9,20 +9,20 @@ title = "Absentia"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "logo.png"
+  # secondaryLogo = ""
   # description = "My awesome website"
-  copyright = "Absentia, Ali Ahmed"
+  copyright = "© Gula Vox { year }"
 
  [params.author]
    name = "Ali Ahmed"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+    email = "example@example.com"
+    image = "Ali_A_pfp.jpeg"
+    imageQuality = 100
+    # headline = "I'm only human"
+    bio = "Editor-in-Chief"
+    links = [
+      { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -45,7 +45,7 @@ title = "Absentia"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+      { linkedin = "https://linkedin.com/in/username" }
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -73,4 +73,4 @@ title = "Absentia"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+    ]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew on Absentia</title>
+    <link>https://ali-a404.github.io/authors/matthew/</link>
+    <description>Recent content in Matthew on Absentia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>example@example.com (Ali Ahmed)</managingEditor>
+    <webMaster>example@example.com (Ali Ahmed)</webMaster>
+    <copyright>© Gula Vox 2025</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ali-a404.github.io/authors/matthew/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cheilitis Granulomatosa</title>
+      <link>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <author>example@example.com (Ali Ahmed)</author>
+      <guid>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
