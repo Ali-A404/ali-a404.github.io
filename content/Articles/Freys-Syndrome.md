@@ -3,6 +3,8 @@ date: '2025-08-08T16:40:25Z'
 title: "Frey's Syndrome"
 authors:
   - "ali-ahmed"
+bylines:
+  "ali-ahmed": "written by"
 ---
 
 **Frey syndrome** (Baillarger’s syndrome, auriculotemporal syndrome, Dupuy syndrome, gustatory hyperhidrosis) occurs due to aberrant reinnervation following injury to the auriculotemporal nerve, most often following parotidectomy.

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Gula</title>
-    <link>https://ali-a404.github.io/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Gula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Gula Vox 2025</copyright>
-    <lastBuildDate>Fri, 08 Aug 2025 17:22:54 +0000</lastBuildDate><atom:link href="https://ali-a404.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Aug 2025 17:22:54 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ali Ahmed</title>
-      <link>https://ali-a404.github.io/authors/ali-ahmed/</link>
+      <link>http://localhost:1313/authors/ali-ahmed/</link>
       <pubDate>Fri, 08 Aug 2025 17:22:54 +0000</pubDate>
       
-      <guid>https://ali-a404.github.io/authors/ali-ahmed/</guid>
+      <guid>http://localhost:1313/authors/ali-ahmed/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Matthew AJ</title>
-      <link>https://ali-a404.github.io/authors/matthew/</link>
+      <link>http://localhost:1313/authors/matthew/</link>
       <pubDate>Fri, 08 Aug 2025 17:22:54 +0000</pubDate>
       
-      <guid>https://ali-a404.github.io/authors/matthew/</guid>
+      <guid>http://localhost:1313/authors/matthew/</guid>
       <description></description>
       
     </item>

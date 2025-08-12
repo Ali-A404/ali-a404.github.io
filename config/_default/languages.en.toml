@@ -16,6 +16,7 @@ title = "Gula"
 
  [params.author]
      name = ""
+#     byline_title = "test"
 #    email = "example@example.com"
 #    image = "Ali_A_pfp.jpeg"
 #    imageQuality = 100
