@@ -2,8 +2,8 @@
 date: '2025-08-08T17:22:54Z'
 title: 'Osteoradionecrosis'
 authors:
-  - "Matthew"
-  - "Ali Ahmed"
+  - "matthew"
+  - "ali-ahmed"
 ---
 
 **Osteoradionecrosis (ORN)** is to a delayed radiation injury characterised by bone necrosis and failure of wound healing for at least 3-6 months, may result from radiotherapy alone or in combination with a mechanical insult.
