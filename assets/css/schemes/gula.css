@@ -14,15 +14,15 @@
   --color-neutral-900: 26, 26, 26; /* Light mode Header text color */
   /* Blue */
   --color-primary-50: 255, 0, 0; /* ??? */
-  --color-primary-100: 255, 0, 0; /* ??? */
+  --color-primary-100: 202, 228, 232; /* Lightmode Alert BG */
   --color-primary-200: 26, 26, 26; /* Lightmode Blockquotes */
   --color-primary-300: 96, 165, 250; /* Lightmode TOC underline flash */
   --color-primary-400: 96, 165, 250; /* Darkmode hyperlinking */
   --color-primary-500: 49, 115, 200; /* Dot seperators for page info, "show more" border */
   --color-primary-600: 37, 99, 235; /* Lightmode hyperlinking */
-  --color-primary-700: 255, 0, 0; /* ??? */
-  --color-primary-800: 255, 0, 0; /* ??? */
-  --color-primary-900: 255, 248, 231; /* Darkmode Blockquotes */
+  --color-primary-700: 37, 99, 235; /* Lightmode badge text */
+  --color-primary-800: 30, 58, 138; /* Darkmode button BG */
+  --color-primary-900: 60, 73, 168; /* Darkmode Blockquotes & alert BG */
   /* Cyan */
   --color-secondary-50: 255, 255, 0;
   --color-secondary-100: 255, 255, 0;

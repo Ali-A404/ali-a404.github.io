@@ -1,8 +1,6 @@
 ---
 title: "About"
 ---
-<script>
-  if (document.documentElement.classList.contains("dark")) {
 
-  }
-</script>
+<img src="/logo.png" id="lgimg" class="dark:hidden">
+<img src="/logo2.png" class="dark:flex">
