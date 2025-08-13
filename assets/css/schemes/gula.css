@@ -1,12 +1,12 @@
-/* Blowfish scheme */
+/* Gula */
 :root {
   --color-neutral: 255, 248, 231;
   /* Gray */
   --color-neutral-50: 255, 248, 231; /* Certain darkmode markdown text */
   --color-neutral-100: 255, 0, 0; /* ??? */
-  --color-neutral-200: 26, 26, 26; /* Card border, light mode */
+  --color-neutral-200: 179, 174, 163; /* Card border, light mode; Darkmode Codeblocks */
   --color-neutral-300: 255, 248, 231; /* Night mode text */
-  --color-neutral-400: 255, 248, 231; /* Night mode page info */
+  --color-neutral-400: 179, 174, 163; /* Night mode page info */
   --color-neutral-500: 26, 26, 26; /* Markdown & page info, light mode */
   --color-neutral-600: 255, 248, 231; /* Markdown dots, night mode */
   --color-neutral-700: 26, 26, 26; /* Light mode normal text, logo BG; Night mode logo bulk */
@@ -15,23 +15,23 @@
   /* Blue */
   --color-primary-50: 255, 0, 0; /* ??? */
   --color-primary-100: 255, 0, 0; /* ??? */
-  --color-primary-200: 255, 0, 0; /* ??? */
-  --color-primary-300: 255, 0, 0; /* ??? */
+  --color-primary-200: 26, 26, 26; /* Lightmode Blockquotes */
+  --color-primary-300: 96, 165, 250; /* Lightmode TOC underline flash */
   --color-primary-400: 96, 165, 250; /* Darkmode hyperlinking */
   --color-primary-500: 49, 115, 200; /* Dot seperators for page info, "show more" border */
   --color-primary-600: 37, 99, 235; /* Lightmode hyperlinking */
   --color-primary-700: 255, 0, 0; /* ??? */
   --color-primary-800: 255, 0, 0; /* ??? */
-  --color-primary-900: 255, 0, 0; /* ??? */
+  --color-primary-900: 255, 248, 231; /* Darkmode Blockquotes */
   /* Cyan */
-  --color-secondary-50: 255, 0, 0;
-  --color-secondary-100: 255, 0, 0;
-  --color-secondary-200: 255, 0, 0;
-  --color-secondary-300: 255, 0, 0;
-  --color-secondary-400: 255, 0, 0;
-  --color-secondary-500: 255, 0, 0;
-  --color-secondary-600: 255, 0, 0;
-  --color-secondary-700: 255, 0, 0;
-  --color-secondary-800: 255, 0, 0;
-  --color-secondary-900: 255, 0, 0;
+  --color-secondary-50: 255, 255, 0;
+  --color-secondary-100: 255, 255, 0;
+  --color-secondary-200: 255, 255, 0;
+  --color-secondary-300: 255, 255, 0;
+  --color-secondary-400: 34, 211, 238; /* Darkmode inline code */
+  --color-secondary-500: 255, 255, 0;
+  --color-secondary-600: 255, 255, 0;
+  --color-secondary-700: 14, 116, 184; /* Lightmode inline code */
+  --color-secondary-800: 255, 255, 0;
+  --color-secondary-900: 255, 255, 0;
 }

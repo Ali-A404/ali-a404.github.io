@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew AJ on Gula</title>
-    <link>https://ali-a404.github.io/authors/matthew/</link>
+    <link>http://localhost:1313/authors/matthew/</link>
     <description>Recent content in Matthew AJ on Gula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Gula Vox 2025</copyright>
-    <lastBuildDate>Fri, 08 Aug 2025 17:22:54 +0000</lastBuildDate><atom:link href="https://ali-a404.github.io/authors/matthew/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Aug 2025 17:22:54 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/matthew/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Osteoradionecrosis</title>
-      <link>https://ali-a404.github.io/articles/osteoradionecrosis/</link>
+      <link>http://localhost:1313/articles/osteoradionecrosis/</link>
       <pubDate>Fri, 08 Aug 2025 17:22:54 +0000</pubDate>
       
-      <guid>https://ali-a404.github.io/articles/osteoradionecrosis/</guid>
+      <guid>http://localhost:1313/articles/osteoradionecrosis/</guid>
       <description></description>
       
     </item>
