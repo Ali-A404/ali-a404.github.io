@@ -2,7 +2,7 @@
 title: "Ali Ahmed"
 ---
 
-<img src="/Ali_A_pfp.jpeg" alt="Avatar" style="width:20em; height:20em; border-radius:50%;">
+<img src="featured.jpeg" alt="Avatar" style="width:20em; height:20em; border-radius:50%;">
 
 Hello there! 🫰
 

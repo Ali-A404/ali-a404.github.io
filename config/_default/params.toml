@@ -18,7 +18,7 @@ replyByEmail = false
  mainSections = ["articles"]
  robots = "none"
 
-disableImageOptimization = false
+disableImageOptimization = true
 disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
@@ -111,14 +111,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  # heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
-  cardView = false
+  showTableOfContents = true
+  cardView = true
 
 [term]
   showHero = false
