@@ -1,6 +1,6 @@
 ---
 date: '2024-08-21'
-title: 'Smallpox: an Overview'
+title: 'Smallpox: an Overview of How Diseases Die'
 authors: 
   - 'ali-ahmed'
 bylines: 
@@ -30,9 +30,7 @@ Smallpox has two main forms: variola major and variola minor.
 *Credit: U.S. CDC PHIL, ID: 3265*
 
 ![](/images/Smallpox/IMG_4427.jpeg)
-*"Smallpox Blisters on Arm"
-Credit: American National Museum of Health and Medicine, ID: NCP 10520
-License: CC BY 2.0.*
+*"Smallpox Blisters on Arm". Credit: American National Museum of Health and Medicine, ID: NCP 10520. CC BY 2.0.*
 
 History of Immunization
 - Variolation: Sore/pustule material transfer to healthy individuals, causing a milder form of the disease and providing protection against acquiring smallpox, seen as early as 200 BCE.
@@ -45,13 +43,10 @@ Vaccine Generations:
 - Bifurcated needles were used for administration, being easier to use and more cost-effective.
 
 ![](/images/Smallpox/IMG_4428.jpeg)
-*M0005372: Portrait of Edward Jenner 1749-1823.
-License: Public Domain Mark.
-Source: Wellcome Collection. https://wellcomecollection.org/works/h6dge6et*
+*M0005372: Portrait of Edward Jenner 1749-1823, Public Domain, ![Wellcome Collection](https://wellcomecollection.org/works/h6dge6et)*
 
 1[](/images/Smallpox/IMG_4430.jpeg)
-*Magnified tip of a loaded bifurcated needle.
-Credit: U.S. CDC PHIL, ID: 2667*
+*Magnified tip of a loaded bifurcated needle. Credit: U.S. CDC PHIL, ID: 2667*
 
 Eradication Timeline
 - 1967: An intense WHO eradication plan involving immunization & surveillance was initiated, set out to achieve mass vaccination of up to 80% of the population, followed by case-finding and ring vaccination of the infected's contacts.
@@ -62,10 +57,11 @@ VECTOR institute.
 - 1980: The WHO declares smallpox eradicated.
 
 ![](/images/Smallpox/IMG_4432.jpeg)
-*"The logo certifying the eradication of smallpox in Somalia, and consequently, in the world."
-Credit: WHO c. 1979*
+*"The logo certifying the eradication of smallpox in Somalia, and consequently, in the world." Credit: WHO c. 1979*
 
 ![](/images/Smallpox/IMG_4433.jpeg)
-*World Health Assembly, 33rd (1980).
-Declaration of global eradication of smallpox (AR), WHO.
-iris.who.int/handle/10665/155528*
+*World Health Assembly, 33rd (1980). Declaration of global eradication of smallpox (AR), WHO. ![Source: WHO IRIS](iris.who.int/handle/10665/155528)*
+
+
+
+Sources: ![1](who.int/publications/m/item/case-definition-for-notification-of-smallpox-under-the-ihr-(2005)) ![2](who.int/publications/m/item/smallpox-clinical-diagnosis) ![3](who.int/news-room/feature-stories/detail/smallpox-vaccines) ![4](who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination) ![5](emedicine.medscape.com/article/237229-overview) ![6](woah.org/fileadmin/Home/eng/Media_Center/docs/pdf/Disease_cards/RINDERPEST-EN.pdf) ![7](cdc.gov/smallpox/history/history.html) ![8](who.int/health-topics/smallpox)
