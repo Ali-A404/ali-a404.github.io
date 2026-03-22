@@ -1,1 +1,2 @@
-# Medical News, By Students, For Students
+# Medicine.
+# By Students, For Students
