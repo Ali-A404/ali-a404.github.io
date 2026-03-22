@@ -45,7 +45,7 @@ Vaccine Generations:
 ![](/images/Smallpox/IMG_4428.jpeg)
 *M0005372: Portrait of Edward Jenner 1749-1823, Public Domain, [Wellcome Collection](https://wellcomecollection.org/works/h6dge6et)*
 
-1[](/images/Smallpox/IMG_4430.jpeg)
+![](/images/Smallpox/IMG_4430.jpeg)
 *Magnified tip of a loaded bifurcated needle. Credit: U.S. CDC PHIL, ID: 2667*
 
 Eradication Timeline
