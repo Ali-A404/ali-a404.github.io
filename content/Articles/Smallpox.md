@@ -43,7 +43,7 @@ Vaccine Generations:
 - Bifurcated needles were used for administration, being easier to use and more cost-effective.
 
 ![](/images/Smallpox/IMG_4428.jpeg)
-*M0005372: Portrait of Edward Jenner 1749-1823, Public Domain, ![Wellcome Collection](https://wellcomecollection.org/works/h6dge6et)*
+*M0005372: Portrait of Edward Jenner 1749-1823, Public Domain, [Wellcome Collection](https://wellcomecollection.org/works/h6dge6et)*
 
 1[](/images/Smallpox/IMG_4430.jpeg)
 *Magnified tip of a loaded bifurcated needle. Credit: U.S. CDC PHIL, ID: 2667*
@@ -60,8 +60,8 @@ VECTOR institute.
 *"The logo certifying the eradication of smallpox in Somalia, and consequently, in the world." Credit: WHO c. 1979*
 
 ![](/images/Smallpox/IMG_4433.jpeg)
-*World Health Assembly, 33rd (1980). Declaration of global eradication of smallpox (AR), WHO. ![Source: WHO IRIS](iris.who.int/handle/10665/155528)*
+*World Health Assembly, 33rd (1980). Declaration of global eradication of smallpox (AR), WHO. [Source: WHO IRIS](iris.who.int/handle/10665/155528)*
 
 
 
-Sources: ![1](who.int/publications/m/item/case-definition-for-notification-of-smallpox-under-the-ihr-(2005)) ![2](who.int/publications/m/item/smallpox-clinical-diagnosis) ![3](who.int/news-room/feature-stories/detail/smallpox-vaccines) ![4](who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination) ![5](emedicine.medscape.com/article/237229-overview) ![6](woah.org/fileadmin/Home/eng/Media_Center/docs/pdf/Disease_cards/RINDERPEST-EN.pdf) ![7](cdc.gov/smallpox/history/history.html) ![8](who.int/health-topics/smallpox)
+Sources: [1](who.int/publications/m/item/case-definition-for-notification-of-smallpox-under-the-ihr-(2005)) [2](who.int/publications/m/item/smallpox-clinical-diagnosis) [3](who.int/news-room/feature-stories/detail/smallpox-vaccines) [4](who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination) [5](emedicine.medscape.com/article/237229-overview) [6](woah.org/fileadmin/Home/eng/Media_Center/docs/pdf/Disease_cards/RINDERPEST-EN.pdf) [7](cdc.gov/smallpox/history/history.html) [8](who.int/health-topics/smallpox)
