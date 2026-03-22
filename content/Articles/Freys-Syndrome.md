@@ -1,5 +1,5 @@
 ---
-date: '2025-08-08T16:40:25Z'
+date: '2025-06-16'
 title: "Frey's Syndrome"
 authors:
   - "ali-ahmed"

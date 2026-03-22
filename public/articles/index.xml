@@ -4,50 +4,37 @@
     <title>Articles on Gula</title>
     <link>https://ali-a404.github.io/articles/</link>
     <description>Recent content in Articles on Gula</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© Gula Vox 2025</copyright>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ali-a404.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Pen</title>
-      <link>https://ali-a404.github.io/articles/pen/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ali-a404.github.io/articles/pen/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Osteoradionecrosis</title>
-      <link>https://ali-a404.github.io/articles/osteoradionecrosis/</link>
-      <pubDate>Fri, 08 Aug 2025 17:22:54 +0000</pubDate>
-      
-      <guid>https://ali-a404.github.io/articles/osteoradionecrosis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Frey&#39;s Syndrome</title>
-      <link>https://ali-a404.github.io/articles/freys-syndrome/</link>
-      <pubDate>Fri, 08 Aug 2025 16:40:25 +0000</pubDate>
-      
-      <guid>https://ali-a404.github.io/articles/freys-syndrome/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ali-a404.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheilitis Granulomatosa</title>
       <link>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://ali-a404.github.io/articles/cheilitis-granulomatosa/</guid>
       <description></description>
-      
     </item>
-    
+    <item>
+      <title>Frey&#39;s Syndrome</title>
+      <link>https://ali-a404.github.io/articles/freys-syndrome/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-a404.github.io/articles/freys-syndrome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Osteoradionecrosis</title>
+      <link>https://ali-a404.github.io/articles/osteoradionecrosis/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-a404.github.io/articles/osteoradionecrosis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CNS Lymphatics</title>
+      <link>https://ali-a404.github.io/articles/cns-lymphatics/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ali-a404.github.io/articles/cns-lymphatics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

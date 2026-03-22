@@ -4,10 +4,8 @@
     <title>Categories on Gula</title>
     <link>https://ali-a404.github.io/categories/</link>
     <description>Recent content in Categories on Gula</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© Gula Vox 2025</copyright>
     <atom:link href="https://ali-a404.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>

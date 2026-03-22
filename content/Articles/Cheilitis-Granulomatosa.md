@@ -1,6 +1,6 @@
 ---
 title: "Cheilitis Granulomatosa"
-date: 2020-08-10
+date: 2025-06-16
 authors:
   - "ali-ahmed"
 bylines: 
