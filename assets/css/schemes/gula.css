@@ -3,7 +3,7 @@
   --color-neutral: 255, 248, 231;
   /* Gray */
   --color-neutral-50: 255, 248, 231; /* Certain darkmode markdown text */
-  --color-neutral-100: 255, 255, 0; /* ??? */
+  --color-neutral-100: 255, 248, 231; /* ??? */
   --color-neutral-200: 179, 174, 163; /* Card border, light mode; Darkmode Codeblocks */
   --color-neutral-300: 255, 248, 231; /* Night mode text */
   --color-neutral-400: 179, 174, 163; /* Night mode page info */
@@ -13,7 +13,7 @@
   --color-neutral-800: 26, 26, 26; /* Night mode BG */
   --color-neutral-900: 26, 26, 26; /* Light mode Header text color */
   /* Blue */
-  --color-primary-50: 255, 255, 0; /* ??? */
+  --color-primary-50: 255, 248, 231; /* ??? */
   --color-primary-100: 202, 228, 232; /* Lightmode Alert BG */
   --color-primary-200: 26, 26, 26; /* Lightmode Blockquotes */
   --color-primary-300: 96, 165, 250; /* Lightmode TOC underline flash */

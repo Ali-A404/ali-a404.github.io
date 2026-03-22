@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Gula"
+title = "Absentia"
 
 [params]
   displayName = "EN"
@@ -12,7 +12,7 @@ title = "Gula"
   logo = "logo.png"
   secondaryLogo = "logo2.png"
   # description = "My awesome website"
-  copyright = "© Gula Vox { year }"
+  copyright = "© Absentia { year }"
 
  [params.author]
      name = ""
