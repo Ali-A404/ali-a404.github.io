@@ -1,6 +1,5 @@
 ---
-date: '2026-03-22T13:37:12Z'
-draft: true
+date: '2024-08-21'
 title: 'Smallpox: an Overview'
 authors: 
   - 'ali-ahmed'
